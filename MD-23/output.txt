@@ -1,0 +1,3 @@
+ramim 20
+tamim 0
+zamim 50
